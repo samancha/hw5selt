@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mvo",
+				"movie2"
+			],
+			[
+				"matchin",
+				"matching_movies"
+			],
+			[
+				"match",
+				"matching_movies"
+			],
+			[
+				"sear",
+				"search_terms"
+			],
+			[
+				"search",
+				"search_tmdb"
+			],
+			[
+				"ser",
+				"search_term"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"tm",
+				"tmdb_id"
+			],
+			[
+				"ra",
+				"ratings"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"movies",
+				"movies_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/controllers/movies_controller_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/movie_spec.rb",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/movies_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/movie.rb",
+			"settings":
+			{
+				"buffer_size": 925,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/movies/search_tmdb.html.haml",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/movies/index.html.haml",
+			"settings":
+			{
+				"buffer_size": 1263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 247,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/saasbook/Git/hw5repo/spec/rails_helper.rb",
+		"/home/saasbook/Git/hw5repo/Gemfile",
+		"/home/saasbook/Git/hw5repo/spec/spec_helper.rb",
+		"/home/saasbook/Git/hw5repo/config/routes.rb",
+		"/home/saasbook/Git/hw5repo/stuffToImplement.txt",
+		"/home/saasbook/Git/hw5repo/app/helpers/application_helper.rb",
+		"/home/saasbook/Git/hw5repo/app/helpers/movies_helper.rb",
+		"/home/saasbook/Git/hw5repo/Gemfile.lock",
+		"/home/saasbook/Git/hw5repo/app/views/movies/index.html.haml",
+		"/home/saasbook/Git/hw5repo/app/models/movie.rb",
+		"/home/saasbook/Git/hw5repo/app/views/movies/show.html.haml",
+		"/home/saasbook/Git/hw5repo/log/development.log",
+		"/home/saasbook/Git/hw5repo/app/views/movies/search_tmdb.html.haml",
+		"/home/saasbook/Git/hw4repo/app/views/movies/new.html.haml",
+		"/home/saasbook/Git/hw4repo/app/views/movies/index.html.haml",
+		"/home/saasbook/Git/hw5repo/app/controllers/application_controller.rb",
+		"/home/saasbook/Git/hw5repo/db/seeds.rb",
+		"/home/saasbook/Git/hw5repo/db/development.sqlite3",
+		"/home/saasbook/Git/hw5repo/config/initializers/session_store.rb",
+		"/home/saasbook/Git/hw5repo/config/application.rb",
+		"/home/saasbook/Git/hw5repo/config/initializers/inflections.rb",
+		"/home/saasbook/Git/hw5repo/config/initializers/secret_token.rb",
+		"/home/saasbook/Git/hw5repo/spec/controllers/movies_controller_spec.rb",
+		"/home/saasbook/Documents/hw3/app/controllers/sessions_controller.rb",
+		"/home/saasbook/Git/hw5repo/app/views/movies/new.html.haml",
+		"/home/saasbook/Documents/hw3/app/views/sessions/new.html.haml",
+		"/home/saasbook/Git/hw5repo/app/assets/stylesheets/application.css",
+		"/home/saasbook/Git/hw5repo/config/boot.rb",
+		"/home/saasbook/Git/hw5repo/config/database.yml",
+		"/home/saasbook/Git/hw5repo/config/environment.rb",
+		"/home/saasbook/Git/hw5repo/spec/movies_controller_spec.rb",
+		"/home/saasbook/Git/hw5repo/db/schema.rb",
+		"/home/saasbook/Git/hw5repo/config.ru",
+		"/home/saasbook/Git/hw5repo/db/migrate/20111119180638_create_movies.rb",
+		"/home/saasbook/Git/hw5repo/config/environment"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flash",
+			"hey",
+			"flash"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/controllers/movies_controller_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/movie_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/movies_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2547,
+								2547
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/movie.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/movies/search_tmdb.html.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/movies/index.html.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1106,
+								1106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "files_sublime.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

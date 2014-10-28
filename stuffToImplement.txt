@@ -1,0 +1,4 @@
+Fix header links in search_tmdb view page
+
+
+Since you will be using rspec to test the new feature described above to RottenPotatoes, you will need to configure the app to use the gem 'rspec-rails', as described in section 8.2 of the text. The gem 'rspec-rails' line has already been added to the Gemfile so you can skip that step. However, you will need to do the remainder of the specified configuration.
